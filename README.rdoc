@@ -13,7 +13,7 @@
 ==Configuration
 * Contents/Resources/Scripts/main.scpt is saved as editable flavor.
 * Open it with AppleScript Editor and edit pw and adb_path.
-* ADB must be shut down before loading EasyTetherUSBEthernet.kext.
+* ADB must be shut down before loading EasyTetherUSBEthernet.kext. EasyTetherLoader will "adb_path kill-server" automatically.
 ==License
 * Usage of the works is permitted provided that this instrument is retained with the works, so that any entity that uses the works is notified of this instrument.
 * DISCLAIMER: THE WORKS ARE WITHOUT WARRANTY.
